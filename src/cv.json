@@ -1,0 +1,191 @@
+{
+    "basics": {
+      "name": "Marcos de la Cruz Soler",
+      "label": "Frontend Developer y tutor de informática con 2 años de experiencia",
+      "image": "https://avatars.githubusercontent.com/u/122940570?v=4",
+      "email": "marcosdelacs@gmail.com",
+      "phone": "+34 690 31 99 00",
+      "url": "https://marcosdelacs.es",
+      "summary": "2 años de experiencia como Profesor Particular. Desarrollador de Backend reconvertido al Front. He trabajado como desarrollador sobre todo el ámbito educativo. Actualmente resido en Sils, España.",
+      "location": {
+        "address": "Av Catalunya 34",
+        "postalCode": "CP 17410",
+        "city": "Sils",
+        "countryCode": "ES",
+        "region": "España"
+      },
+      "profiles": [{
+        "network": "X",
+        "username": "Darak",
+        "url": "https://twitter.com/Darak_Graphics"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Marcos De la Cruz Soler",
+        "url": "https://www.linkedin.com/in/marcosdelacs/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Darak_DEV",
+        "url": "https://github.com/darakDEV/"
+      }]
+    },
+    "work": [{
+      "name": "Autónomo",
+      "position": "Tutor de Informática y Programación",
+      "url": "https://marcosdelacs.es",
+      "startDate": "2023-03-01",
+      "summary": "Profesor particular con +400 clases impartidas en el ámbito de la informática y la programación, +50 alumnos aprobados y +15 alumnos regulares actualmente.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "UJI - CIRTESU",
+      "position": "Técnico de laboratorio de robótica submarina",
+      "url": "https://blogs.uji.es/cirtesu/",
+      "startDate": "2021-02-01",
+      "endDate": "2022-09-30",
+      "summary": "En este trabajo me encargué del desarrollo de la GUI de un controlador de ROVs submarinos y la primera capa de comunicación entre cliente-servidor para operar de forma eficaz los diferente vehículos submarinos.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "UJI - CIRTESU",
+      "position": "Becario de laboratorio de robótica submarina",
+      "url": "https://blogs.uji.es/cirtesu/",
+      "startDate": "2020-09-01",
+      "endDate": "2020-11-30",
+      "summary": "En este trabajo desarrollé desde cero una interfaz de realidad virtual para el manejo de robots submarínos junto con una simulación del entorno de experimentación con el AUV Girona 500.",
+      "highlights": [
+        ""
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universitat Jaume I - UJI",
+      "url": "https://www.uji.es/",
+      "area": "Sistemas Inteligentes y Robótica de Servicios",
+      "studyType": "Master",
+      "startDate": "2019-09-01",
+      "endDate": "2021-01-01",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Universitat Jaume I - UJI",
+      "url": "https://www.uji.es/",
+      "area": "Diseño y Desarrollo de Videojuegos",
+      "studyType": "Grado",
+      "startDate": "2015-09-01",
+      "endDate": "2019-05-31",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Universidad de Castilla La-Mancha - UCLM",
+      "url": "https://www.uclm.es/",
+      "area": "Robótica y Scratch para Arduino",
+      "studyType": "Curso",
+      "startDate": "2014-05-01",
+      "endDate": "2014-07-31",
+      "score": "4.0",
+      "courses": [
+        ""
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "WEB DEVELOPMENT",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "isActive": true,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "isActive": true,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "isActive": true,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Hola",
+      "isActive": false,
+      "description": "Description...",
+      "highlights": [
+        "Wonsadasd award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
