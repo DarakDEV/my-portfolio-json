@@ -20,7 +20,7 @@ import { projects } from "@cv";
                 <p>{description}</p>
               </header>
               <footer>
-                {highlights.map((highlight) => {
+                {highlights?.map((highlight) => {
                   return <span>{highlight}</span>;
                 })}
               </footer>
@@ -59,6 +59,7 @@ import { projects } from "@cv";
 
   article h3 span {
     color: rgb(0, 188, 47);
+    font-weight: 900;
   }
 
   article a {
@@ -86,8 +87,8 @@ import { projects } from "@cv";
     border-radius: 6px;
     background: #eee;
     color: #444;
-    font-size: 0.6rem;
-    font-weight: 500;
+    font-size: 0.75rem;
+    font-weight: 600;
     padding: 0.2rem 0.6rem;
   }
 </style>
